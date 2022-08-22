@@ -1,2 +1,1 @@
-# te1epuz-JSFEPRESCHOOL2022Q2
-Private repository for @te1epuz
+https://te1epuz.github.io/travel/travel/index.html
